@@ -1,0 +1,57 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import TimeLineElement from "../components/cv/TimeLine.astro";
+---
+
+<BaseLayout title="Resume" sideBarActiveItemID="cv">
+  
+  <div class="mb-5">
+    <div class="text-3xl w-full font-bold">Education</div>
+  </div>
+
+  <div class="time-line-container grid gap-4 mb-10">
+    <TimeLineElement
+      title="BE Mechanical Engineering (2020)"
+      subtitle=" at Pune University"
+    />
+  </div>
+
+  <div class="mb-5">
+    <div class="text-3xl w-full font-bold">Experience</div>
+  </div>
+
+  <div class="time-line-container mb-10">
+    <TimeLineElement
+      title="Heat Treatment Production Analyst"
+      subtitle="From [Jul 2021] to [Oct 2023] at Klassic Wheels Ltd."
+    >
+      • Prepared and maintained MIS Production reports and metrics using Excel which includes sharing it to the manager .<br>
+      • Created analytical production reports, including charts and graphs.<br>
+      • Process improvement, automation & documentation.<br>
+      • Audit documentation and preparation.<br>
+      • Prepared SCADA data reports for customer.<br>
+    </TimeLineElement>
+  </div>
+
+  <div class="mb-5">
+    <div class="text-3xl w-full font-bold">Certifications</div>
+  </div>
+
+  <ul class="list-disc mx-6 mb-10 grid gap-2">
+    <li>
+      <a href="https://www.credly.com/badges/cc4c3f6b-d3be-415e-9cfc-edaa8e7c1eea/linked_in_profile" target="_blank"> Data Analytics Essentials by Cisco (link)</a>
+    </li>
+    <li>
+      <a href="https://drive.google.com/file/d/1I4YNgXT1VkhJmYdRfFVJ1nnff6bs3rdJ/view" target="_blank"> Power Bi in Data Analytics Virtual Experience by Pwc (link)</a>
+    </li>
+  </ul>
+
+  <!-- Download CV button -->
+  <div class="text-center">
+    <a href="https://drive.google.com/file/d/1-fTPvL6j4dpJxrQ0IFzmcBKuT_uzPlMK/view?usp=sharing" target="_blank" class="bg-black text-white py-2 px-4 rounded hover:bg-gray-800">
+      Download CV
+    </a>
+  </div>
+  
+</BaseLayout>
+
