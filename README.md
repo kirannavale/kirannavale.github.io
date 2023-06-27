@@ -1,3 +1,4 @@
 ## MY PORTFOLIO SITE
-[Link](https://kirannavale.github.io){:target="_blank"}
+<a href="https://kirannavale.github.io" target="_blank">Link</a>
+
 
