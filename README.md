@@ -1,2 +1,2 @@
 ## MY PORTFOLIO SITE
-![Link](https://kirannavale.github.io)
+[Link](https://kirannavale.github.io)
