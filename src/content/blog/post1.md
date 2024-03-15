@@ -19,7 +19,7 @@ MySQL, Microsoft Power BI, Power Query Editor, DAX
 
 🔴Live interactive dashboard below! 👇
 
-<iframe title="Sales Insights of AtliQ Hardware" width="750" height="500" src="https://app.powerbi.com/view?r=eyJrIjoiMjg0OGFjNDYtZWMxNC00ZTI3LTk4MDQtMzAxNjM5NjUxNDMzIiwidCI6ImVmZjBlYzVkLWI1MDYtNDQ1OC04YTUzLTAxZjJmNzYyOGQ1NyIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="Sales Insights of AtliQ Hardware" width="750" height="500" src="https://app.powerbi.com/view?r=eyJrIjoiZDIzYWIzOGUtZGE2Yy00MTBhLTlhZDEtNDY3YjEwMjYzYjhmIiwidCI6ImUyOWMxNmJiLTQyZTQtNDA3Yi05ZDRlLTBhNTU3MmIzZmIzZSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 
 
