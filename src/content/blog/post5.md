@@ -17,6 +17,6 @@ Excel, Microsoft Power BI, Power Query Editor, DAX
 
 🔴Live interactive dashboard below! 👇
 
-<iframe title="Finance Dashboard" width="750" height="500" src="https://app.powerbi.com/view?r=eyJrIjoiM2Q4ZjQ5ZTQtYzJjNi00ZTM3LThhOWUtMDNjMTM4MDkwZmVjIiwidCI6ImVmZjBlYzVkLWI1MDYtNDQ1OC04YTUzLTAxZjJmNzYyOGQ1NyIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="Finance Dashboard" width="750" height="500" src="https://app.powerbi.com/reportEmbed?reportId=20bca767-d1a2-4b59-95cd-29f67e102ffe&autoAuth=true&ctid=e29c16bb-42e4-407b-9d4e-0a5572b3fb3e" frameborder="0" allowFullScreen="true"></iframe>
 
 
