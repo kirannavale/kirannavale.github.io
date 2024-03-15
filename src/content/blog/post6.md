@@ -17,5 +17,5 @@ Excel, Microsoft Power BI, Power Query Editor, DAX
 
 🔴Live interactive dashboard below! 👇
 
-<iframe title="HealthCare Dashboard" width="750" height="500" src="https://app.powerbi.com/view?r=eyJrIjoiYzNkMGJhOGUtNDJmZC00ZjljLWIxYjktOWZiNmY1Y2Y3NzRmIiwidCI6ImVmZjBlYzVkLWI1MDYtNDQ1OC04YTUzLTAxZjJmNzYyOGQ1NyIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="HealthCare Dashboard" width="750" height="500" src="https://app.powerbi.com/reportEmbed?reportId=310c2460-1732-485b-b165-947b2e17188e&autoAuth=true&ctid=e29c16bb-42e4-407b-9d4e-0a5572b3fb3e" frameborder="0" allowFullScreen="true"></iframe>
 
